@@ -1,0 +1,110 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Vendor:   NVIDIA
+    VRAM:     2018 MB
+    Driver:   21.21.13.6909
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Corvo\Desktop\Midterm-master\BuildTest_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Corvo\Desktop\Midterm-master\BuildTest_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Corvo\Desktop\Midterm-master\BuildTest_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Corvo\Desktop\Midterm-master\BuildTest_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Corvo\Desktop\Midterm-master\BuildTest_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Corvo\Desktop\Midterm-master\BuildTest_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Corvo\Desktop\Midterm-master\BuildTest_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Corvo\Desktop\Midterm-master\BuildTest_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Corvo\Desktop\Midterm-master\BuildTest_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Corvo\Desktop\Midterm-master\BuildTest_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.026 seconds
+Platform assembly: C:\Users\Corvo\Desktop\Midterm-master\BuildTest_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Corvo\Desktop\Midterm-master\BuildTest_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.155453 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2d80 -> priority: 1 
+  Thread -> id: 1f80 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.243160 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 327.
+Total: 0.245538 ms (FindLiveObjects: 0.020527 ms CreateObjectMapping: 0.014606 ms MarkObjects: 0.203694 ms  DeleteObjects: 0.006710 ms)
+
+The referenced script on this Behaviour (Game Object 'Heart') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.476866 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 936.
+Total: 0.284619 ms (FindLiveObjects: 0.043423 ms CreateObjectMapping: 0.020527 ms MarkObjects: 0.213563 ms  DeleteObjects: 0.006710 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.397520 ms
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 376.
+Total: 0.418442 ms (FindLiveObjects: 0.037107 ms CreateObjectMapping: 0.019737 ms MarkObjects: 0.223827 ms  DeleteObjects: 0.136980 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.213958 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 344.
+Total: 0.278698 ms (FindLiveObjects: 0.027238 ms CreateObjectMapping: 0.016579 ms MarkObjects: 0.223827 ms  DeleteObjects: 0.009868 ms)
+
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Vendor:   NVIDIA
+    VRAM:     2018 MB
+    Driver:   21.21.13.6909
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Corvo\Desktop\Midterm-master\BuildTest_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Corvo\Desktop\Midterm-master\BuildTest_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Corvo\Desktop\Midterm-master\BuildTest_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Corvo\Desktop\Midterm-master\BuildTest_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Corvo\Desktop\Midterm-master\BuildTest_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Corvo\Desktop\Midterm-master\BuildTest_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Corvo\Desktop\Midterm-master\BuildTest_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Corvo\Desktop\Midterm-master\BuildTest_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Corvo\Desktop\Midterm-master\BuildTest_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Corvo\Desktop\Midterm-master\BuildTest_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.022 seconds
+Platform assembly: C:\Users\Corvo\Desktop\Midterm-master\BuildTest_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Corvo\Desktop\Midterm-master\BuildTest_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.639030 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2d88 -> priority: 1 
+  Thread -> id: 100 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.044516 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 327.
+Total: 0.316989 ms (FindLiveObjects: 0.037896 ms CreateObjectMapping: 0.024080 ms MarkObjects: 0.246723 ms  DeleteObjects: 0.007895 ms)
+
+The referenced script on this Behaviour (Game Object 'Heart') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.635558 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 936.
+Total: 0.316594 ms (FindLiveObjects: 0.040265 ms CreateObjectMapping: 0.028027 ms MarkObjects: 0.240801 ms  DeleteObjects: 0.007105 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.038210 ms
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 310.
+Total: 0.868070 ms (FindLiveObjects: 0.043818 ms CreateObjectMapping: 0.054476 ms MarkObjects: 0.366334 ms  DeleteObjects: 0.403046 ms)
+

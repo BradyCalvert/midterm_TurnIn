@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: bf582419dc838d342bb561da08377bab
+timeCreated: 1490591384
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - sprite: {fileID: 2800000, guid: 807bc9f4582086d4caf4e355747f179e, type: 3}
+  - disabledSprite: {fileID: 2800000, guid: 6c202d5a06d6c7648841a30d79a96c7b, type: 3}
+  - sprite2: {fileID: 2800000, guid: 9cd5032380f5eb3428bf983ea80bb46e, type: 3}
+  - disabledSprite2: {fileID: 2800000, guid: 44b5249c3d3708f44b772ce41740b362, type: 3}
+  - sprite3: {fileID: 2800000, guid: 69428a735e8d5fa4eb9064d3c88266c4, type: 3}
+  - disabledSprite3: {instanceID: 0}
+  - sprite4: {instanceID: 0}
+  - disabledSprite4: {instanceID: 0}
+  - soundManager: {instanceID: 0}
+  - keySound: {instanceID: 0}
+  - unlockSound: {instanceID: 0}
+  - heartSound: {instanceID: 0}
+  - key: {instanceID: 0}
+  - lockBox: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
